@@ -186,4 +186,5 @@ I'm a developer who enjoys building across full-stack web, AI, mobile, and machi
 
 ## 📫 Contact
 
+- LinkedIn: [Sercan Furkan](https://www.linkedin.com/in/sercan-furkan-g%C3%BCm%C3%BC%C5%9Fdo%C4%9Frayan-39419a40a/)
 - GitHub: [@SercanFurkan](https://github.com/SercanFurkan)
