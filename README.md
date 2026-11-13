@@ -23,6 +23,7 @@ I'm a developer who enjoys building across mobile, machine learning, and web. On
 
 | Project | Description | Main Focus |
 | :--- | :--- | :--- |
+| SKU-GEN (private repo) | AI-powered SaaS for Turkish e-commerce sellers that generates marketplace product descriptions (Trendyol, Hepsiburada, N11) with the Claude API, plus vehicle and real-estate listings, PDF appraisal summaries, and bulk generation from spreadsheets. Solo full-stack project. | AI / Web (Full-Stack) |
 | [Mobile-Application](https://github.com/SercanFurkan/Mobile-Application) | Android conference check-in app with participant registration (photo capture) and ID-based verification. | Mobile (Android) |
 | [focus-timer-app](https://github.com/SercanFurkan/focus-timer-app) | Cross-platform focus-session app with Supabase auth and sync, session history, and an in-progress Android app-blocking module. | Mobile (Cross-platform) |
 | [BlueWave](https://github.com/SercanFurkan/BlueWave) | Yacht rental and booking website with user accounts, orders, payments pages, an admin panel, and a PHP/MySQL API. | Web (Full-Stack) |
@@ -52,19 +53,21 @@ I'm a developer who enjoys building across mobile, machine learning, and web. On
 - Classification, hyperparameter tuning (GridSearchCV), threshold analysis
 - TF-IDF, sparse matrix operations (SciPy), content-based recommendation
 - Visualization with Matplotlib
+- LLM integration: Claude API (Anthropic SDK) for structured content generation and information extraction
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
-- React with TypeScript/JavaScript, Vite, Tailwind CSS
+- React and Next.js (App Router) with TypeScript/JavaScript, Vite, Tailwind CSS
 
 **Backend**
 
 ![.NET](https://skillicons.dev/icons?i=dotnet) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Prisma](https://skillicons.dev/icons?i=prisma) ![PHP](https://skillicons.dev/icons?i=php) ![Supabase](https://skillicons.dev/icons?i=supabase)
 
 - ASP.NET Core and EF Core, Node.js/Express with Prisma, Python FastAPI, PHP, Supabase
-- JWT authentication, REST APIs
+- JWT authentication, REST APIs, Next.js API routes
+- Supabase auth with PostgreSQL row-level security and RPC functions
 
 **Databases**
 
@@ -79,6 +82,14 @@ I'm a developer who enjoys building across mobile, machine learning, and web. On
 ## ⭐ Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏷️ SKU-GEN</h3>
+      <p>AI-powered SaaS for Turkish e-commerce sellers. It generates marketplace-specific listing text (Trendyol, Hepsiburada, N11) with the Claude API and also covers vehicle and real-estate listings, PDF appraisal summaries, and bulk generation from spreadsheets. Includes Supabase auth and database-enforced usage limits. Solo full-stack project.</p>
+      <p><img src="https://img.shields.io/badge/Repository-Private-lightgrey?style=flat-square" alt="private repository" /></p>
+      <p><b>Technologies:</b> <code>Next.js</code> <code>TypeScript</code> <code>React</code> <code>Claude API</code> <code>Supabase</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📱 Mobile-Application</h3>
