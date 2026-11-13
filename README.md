@@ -2,10 +2,10 @@
 
 # Hi 👋, I'm Sercan Furkan
 
-**Mobile Development • Machine Learning • Data Science**
+**Full-Stack Development • AI Integration • Mobile • Machine Learning • Data Science**
 
 <a href="https://github.com/SercanFurkan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+mobile+apps+with+Kotlin+%26+React+Native;Training+ML+models+with+scikit-learn;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Building+full-stack+apps+with+Next.js%2C+Supabase+%26+.NET;Integrating+LLMs+%28Claude+API%29+into+real+products;Shipping+mobile+apps+with+Kotlin+%26+React+Native;Training+ML+models+with+scikit-learn" alt="Typing SVG" />
 </a>
 
 <br/>
