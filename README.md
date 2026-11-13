@@ -28,12 +28,15 @@ I'm a developer who enjoys building across mobile, machine learning, and web. On
 | [BlueWave](https://github.com/SercanFurkan/BlueWave) | Yacht rental and booking website with user accounts, orders, payments pages, an admin panel, and a PHP/MySQL API. | Web (Full-Stack) |
 | [Customer-churn](https://github.com/SercanFurkan/Customer-churn) | CRISP-DM churn analysis on telecom data that compares three classifiers and tunes the decision threshold. | Data Science / ML |
 | [food-content-recomndr](https://github.com/SercanFurkan/food-content-recomndr) | Content-based recipe recommender built on TF-IDF features and rating-weighted user profiles, using the Food.com dataset. | Machine Learning |
+| University Student Information System (private repo) | Team project: student information system for a university with a .NET 10 / EF Core API, a React + TypeScript + Tailwind frontend, PostgreSQL, and JWT auth. | Web (Full-Stack) |
+| [genapp-dotnet](https://github.com/sertugser/genapp-dotnet) | Team project: test-driven modernization of IBM's COBOL/CICS GenApp insurance sample to ASP.NET Core + PostgreSQL, using GnuCOBOL-based tests and mutation testing (Stryker.NET). My role: Testing & QA. | Software Testing / Backend |
+| [English-Assessment-System](https://github.com/efekanegeli2/English-Assessment-System) | Team project: web app for English level assessment exams with role-based JWT auth, a Node.js/Express API (Prisma), a React client, and a Python FastAPI scoring service. | Web (Full-Stack) |
 
 ## 🛠️ Technical Skills
 
 **Languages**
 
-![Kotlin](https://skillicons.dev/icons?i=kotlin) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![PHP](https://skillicons.dev/icons?i=php) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+![Kotlin](https://skillicons.dev/icons?i=kotlin) ![C#](https://skillicons.dev/icons?i=cs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![PHP](https://skillicons.dev/icons?i=php) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
 **Mobile**
 
@@ -50,19 +53,28 @@ I'm a developer who enjoys building across mobile, machine learning, and web. On
 - TF-IDF, sparse matrix operations (SciPy), content-based recommendation
 - Visualization with Matplotlib
 
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+
+- React with TypeScript/JavaScript, Vite, Tailwind CSS
+
 **Backend**
 
-![PHP](https://skillicons.dev/icons?i=php) ![Supabase](https://skillicons.dev/icons?i=supabase)
+![.NET](https://skillicons.dev/icons?i=dotnet) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Prisma](https://skillicons.dev/icons?i=prisma) ![PHP](https://skillicons.dev/icons?i=php) ![Supabase](https://skillicons.dev/icons?i=supabase)
+
+- ASP.NET Core and EF Core, Node.js/Express with Prisma, Python FastAPI, PHP, Supabase
+- JWT authentication, REST APIs
 
 **Databases**
 
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-- MySQL (BlueWave), PostgreSQL via Supabase (FocusTimer), SQLite via Room (Android)
+- MySQL (BlueWave), PostgreSQL (Supabase, ASP.NET Core projects), SQLite via Room (Android)
 
 **Tools**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![LaTeX](https://skillicons.dev/icons?i=latex)
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![LaTeX](https://skillicons.dev/icons?i=latex)
 
 ## ⭐ Featured Projects
 
@@ -116,7 +128,7 @@ I'm a developer who enjoys building across mobile, machine learning, and web. On
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>⏱️ focus-timer-app</h3>
       <p>Expo Router + React Native prototype for focused study sessions, with Supabase auth, local-first storage with cloud sync, session history, and a native Android blocking module in development.</p>
       <p>
@@ -126,6 +138,17 @@ I'm a developer who enjoys building across mobile, machine learning, and web. On
       </p>
       <p><b>Technologies:</b> <code>TypeScript</code> <code>React Native</code> <code>Expo</code> <code>Supabase</code> <code>Kotlin</code></p>
       <a href="https://github.com/SercanFurkan/focus-timer-app">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 genapp-dotnet</h3>
+      <p>Team project modernizing IBM's COBOL/CICS GenApp insurance sample to ASP.NET Core and PostgreSQL, with tests derived from the COBOL logic, checked in GnuCOBOL, and measured with mutation testing. My role: Testing &amp; QA.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sertugser/genapp-dotnet?style=flat-square" alt="stars" />
+        <img src="https://img.shields.io/github/forks/sertugser/genapp-dotnet?style=flat-square" alt="forks" />
+        <img src="https://img.shields.io/github/last-commit/sertugser/genapp-dotnet?style=flat-square" alt="last commit" />
+      </p>
+      <p><b>Technologies:</b> <code>C#</code> <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>xUnit</code> <code>Stryker.NET</code> <code>Docker</code></p>
+      <a href="https://github.com/sertugser/genapp-dotnet">View Repository →</a>
     </td>
   </tr>
 </table>
