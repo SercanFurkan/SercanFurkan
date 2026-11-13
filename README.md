@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys building across full-stack web, AI, mobile, and machine learning. My main solo project is SKU-GEN, a full-stack SaaS built with Next.js and Supabase that uses the Claude API to generate marketplace listings for e-commerce sellers. On mobile, I've built a native Android app with Kotlin, Jetpack Compose, and Room for my CENG443 final project, and a cross-platform study-timer app with React Native, Expo, and Supabase. On the data side, I work through full pipelines in Python and scikit-learn, from a CRISP-DM telecom churn analysis to a content-based recipe recommender on more than 1.1M interactions. I also work on team projects, including a COBOL-to-ASP.NET Core modernization with mutation testing, and I built BlueWave, a yacht rental site with a PHP and MySQL backend.
+I'm a senior Information Systems Engineering student at Ankara Bilim University, and I enjoy building across full-stack web, AI, mobile, and machine learning. My main solo project is SKU-GEN, a full-stack SaaS built with Next.js and Supabase that uses the Claude API to generate marketplace listings for e-commerce sellers. On mobile, I've built a native Android app with Kotlin, Jetpack Compose, and Room for my CENG443 final project, and a cross-platform study-timer app with React Native, Expo, and Supabase. On the data side, I work through full pipelines in Python and scikit-learn, from a CRISP-DM telecom churn analysis to a content-based recipe recommender on more than 1.1M interactions. I also work on team projects, including a COBOL-to-ASP.NET Core modernization with mutation testing, and I built BlueWave, a yacht rental site with a PHP and MySQL backend.
 
 ## 🚀 Current Projects
 
