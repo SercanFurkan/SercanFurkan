@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="232" viewBox="0 0 495 232" role="img" aria-label="Most used languages">
+<text x="20" y="34" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#24292f">Most Used Languages</text>
+<text x="20" y="61" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#24292f">TypeScript</text>
+<rect x="150" y="52" width="270" height="10" rx="5" fill="#d0d7de"/>
+<rect x="150" y="52" width="135.1" height="10" rx="5" fill="#3178c6"/>
+<text x="475" y="61" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#57606a">50.0%</text>
+<text x="20" y="89" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#24292f">Python</text>
+<rect x="150" y="80" width="270" height="10" rx="5" fill="#d0d7de"/>
+<rect x="150" y="80" width="36.9" height="10" rx="5" fill="#3572A5"/>
+<text x="475" y="89" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#57606a">13.6%</text>
+<text x="20" y="117" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#24292f">JavaScript</text>
+<rect x="150" y="108" width="270" height="10" rx="5" fill="#d0d7de"/>
+<rect x="150" y="108" width="22.5" height="10" rx="5" fill="#f1e05a"/>
+<text x="475" y="117" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#57606a">8.4%</text>
+<text x="20" y="145" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#24292f">Kotlin</text>
+<rect x="150" y="136" width="270" height="10" rx="5" fill="#d0d7de"/>
+<rect x="150" y="136" width="21.8" height="10" rx="5" fill="#A97BFF"/>
+<text x="475" y="145" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#57606a">8.1%</text>
+<text x="20" y="173" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#24292f">TeX</text>
+<rect x="150" y="164" width="270" height="10" rx="5" fill="#d0d7de"/>
+<rect x="150" y="164" width="14.1" height="10" rx="5" fill="#3D6117"/>
+<text x="475" y="173" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#57606a">5.2%</text>
+<text x="20" y="201" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#24292f">HTML</text>
+<rect x="150" y="192" width="270" height="10" rx="5" fill="#d0d7de"/>
+<rect x="150" y="192" width="13.7" height="10" rx="5" fill="#e34c26"/>
+<text x="475" y="201" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#57606a">5.1%</text>
+</svg>

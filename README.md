@@ -169,6 +169,11 @@ I'm a final-year Information Systems Engineering student at Ankara Bilim Univers
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
+  <img alt="SercanFurkan most used languages across public repositories" src="assets/languages-light.svg" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SercanFurkan&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
   <img alt="SercanFurkan GitHub contribution streak" src="https://streak-stats.demolab.com?user=SercanFurkan&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a" />
 </picture>
