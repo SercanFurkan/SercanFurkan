@@ -169,15 +169,6 @@ I'm a final-year Information Systems Engineering student at Ankara Bilim Univers
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SercanFurkan&show_icons=true&hide_border=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9" />
-  <img alt="SercanFurkan GitHub stats: stars, commits, PRs and issues" src="https://github-readme-stats.vercel.app/api?username=SercanFurkan&show_icons=true&hide_border=true&theme=transparent&title_color=0969da&icon_color=0969da&text_color=24292f" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SercanFurkan&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=c9d1d9" />
-  <img alt="SercanFurkan most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SercanFurkan&layout=compact&hide_border=true&theme=transparent&title_color=0969da&text_color=24292f" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SercanFurkan&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
   <img alt="SercanFurkan GitHub contribution streak" src="https://streak-stats.demolab.com?user=SercanFurkan&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a" />
 </picture>
